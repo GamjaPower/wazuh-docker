@@ -151,6 +151,9 @@ ADMIN_PRIVILEGES=true               # App privileges
 * `Wazuh.Version` (for example 3.13.1_7.8.0 or 4.1.0) branch. This branch contains the current release referenced in Docker Hub. The container images are installed under the current version of this branch.
 
 
+## Add Thehive
+* thehive
+
 ## Compatibility Matrix
 
 | Wazuh version | ODFE    | XPACK  |
